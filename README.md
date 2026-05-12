@@ -55,7 +55,3 @@ Then invoke it with `/day_time_manager` or just say "plan my day".
 - Large tasks scheduled first (first-fit-descending)
 - Always shows the plan and asks for confirmation before creating events
 - Falls back to Google Calendar quick-add links if the create API isn't available
-
-## Related
-
-- [shift-shaping](https://github.com/baleksan/shift-shaping) — Shape Up methodology tools for product development
